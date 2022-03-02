@@ -1,5 +1,5 @@
 
-# BOT CC Checker Bot [Heroku]
+# XBOIE CC Checker Bot [Heroku]
 
 A Telegram CC Checker Bot with hella lotta features.
 
